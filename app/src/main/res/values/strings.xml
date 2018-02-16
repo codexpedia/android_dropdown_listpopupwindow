@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Dropdown ListPopupWindow</string>
+
+    <string name="pick_place_type">Select Place Type</string>
+    <string-array name="place_types">
+        <item>Restaurant</item>
+        <item>Cafe</item>
+        <item>Gas Stations</item>
+        <item>Shopping</item>
+        <item>Hotels</item>
+        <item>Airport</item>
+        <item>Transit Stations</item>
+        <item>Banks</item>
+        <item>School</item>
+        <item>Church</item>
+    </string-array>
+
+</resources>
